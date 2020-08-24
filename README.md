@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Mel 👋
+
+![](https://giphy.com/embed/xUPGGehTHF7xtAvutq)
+
 
 <!--
 **ayomel/ayomel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
