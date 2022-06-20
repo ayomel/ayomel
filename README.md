@@ -10,7 +10,7 @@ If I'm not catching up on stranger things or marvel movies I'm probably breaking
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [huntermelverton@gmail.com](mailto:huntermelverton@gmail.com)
-* 🚀  I'm currently working on [transfix](http://transfix.io)
+* 🚀  I'm currently working on anything and everything JavaScript
 
 ### Skills
 
