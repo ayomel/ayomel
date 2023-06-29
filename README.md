@@ -1,8 +1,6 @@
 Hi 👋 My name is Mel
 =================================
 
-![](https://media3.giphy.com/media/dmr5xqF2Sh48E/giphy.gif?cid=ecf05e47lb7fpzb1z0mfhau9frevnt47sghxw0cvq3jtme05&rid=giphy.gif)
-
 Software Engineer
 -----------------
 
