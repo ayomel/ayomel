@@ -1,9 +1,6 @@
 Hi 👋 My name is Mel
 =================================
 
-Software Engineer
------------------
-
 If I'm not catching up on stranger things or marvel movies I'm probably breaking the web somewhere
 
 * 🌍  I'm based in United States
