@@ -1,19 +1,21 @@
-Hi 👋 My name is Mel
-=================================
+# Hey, I'm Mel 👋
 
-If I'm not catching up on stranger things or marvel movies I'm probably breaking the web somewhere
+**Senior Software Engineer** building things for the web and beyond.
 
-* 🌍  I'm based in United States
-* ✉️  You can contact me at [huntermelverton@gmail.com](mailto:huntermelverton@gmail.com)
-</p>
+I enjoy solving complex problems, designing scalable systems, and turning ideas into real products.
 
+### Tech Stack
 
-### Socials
+**Frontend:** React · TypeScript · Next.js · Tailwind CSS
 
-<p align="left"> <a style="margin-right: 1rem;" href="https://www.github.com/ayomel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"  style="margin-right: 1rem;" /></a> <a style="margin-right: 1rem;" href="https://www.linkedin.com/in/melvertonhunter" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ayomel3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+**Backend:** Node.js · Python · FastAPI · Go
 
-### Badges
+**Infrastructure:** AWS · PostgreSQL · Cloudflare
 
-<b>My GitHub Stats</b>
+### Outside of Code
 
-<a href="http://www.github.com/ayomel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayomel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+When I'm not coding, you'll probably find me training Muay Thai, working on side projects.
+
+### Connect
+
+[Portfolio](https://melverton.com) · [GitHub](https://github.com/ayomel)
