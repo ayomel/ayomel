@@ -14,7 +14,7 @@ I enjoy solving complex problems, designing scalable systems, and turning ideas 
 
 ### Outside of Code
 
-When I'm not coding, you'll probably find me training Muay Thai, working on side projects.
+When I'm not coding, you'll probably find me training Muay Thai or working on side projects.
 
 ### Connect
 
