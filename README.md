@@ -14,7 +14,7 @@ I enjoy solving complex problems, designing scalable systems, and turning ideas 
 
 ### AI Stack
 
-**AI Development:** Cursor Agent · Codex · Orca Build · Grok
+**AI Development:** Cursor Agent · Codex · Orca Build · Grok Bot
 
 I use AI tools as part of my development workflow for exploring ideas, writing and reviewing code, debugging, and moving faster on side projects and production work.
 
