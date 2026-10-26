@@ -20,18 +20,3 @@ Discover movies and TV shows, watch trailers, and keep a watchlist. A React and 
 
 ### [Shrinkcord](https://github.com/ayomel/shrinkcord)
 Make oversized images and videos easier to share on Discord. Images compress in the browser; videos use an API for processing.
-
-## More things I've built
-
-- [Court Pong](https://github.com/ayomel/court-pong) — browser Pong with local play, a CPU opponent, and remote multiplayer using Cloudflare Durable Objects.
-- [Pagination Visualizer](https://github.com/ayomel/pagination-visualizer) — an interactive way to explore how page numbers, offsets, and limits relate.
-
-## Tools I work with
-
-**Frontend:** React · TypeScript · Next.js · Tailwind CSS  
-**Backend:** Node.js · Python · FastAPI · Go  
-**Infrastructure:** AWS · PostgreSQL · Cloudflare
-
-I use Cursor Agent, Codex, Orca Build, and Grok Bot to help explore ideas, write and review code, and debug.
-
-Outside of code, you'll probably find me training Muay Thai.
