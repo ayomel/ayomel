@@ -9,7 +9,7 @@ I work across React, TypeScript, Node.js, and Python. I enjoy owning a feature f
 ## Featured projects
 
 ### [LinguaPop](https://github.com/ayomel/LinguaPop)
-A Chrome extension that helps you practice Spanish or French while browsing. It replaces selected words and phrases, offers translation tooltips, and saves vocabulary for flashcard review.
+A Chrome extension that helps you practice Spanish while browsing. It replaces selected words and phrases, offers translation tooltips, and saves vocabulary for flashcard review.
 
 [Try the extension](https://github.com/ayomel/LinguaPop#try-it-without-building)
 
